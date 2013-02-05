@@ -18,4 +18,5 @@ Try this problem on your own and then see Example.rb for the solution
 
 ###Who's my partner?
 Here's the generated list from class:
+[["JohnM", "Katie"], ["Chad", "Dave"], ["Adam", "Wencui"], ["Danielle", "Brit"], ["Mills", "Jon"], ["Oscar", "Chris"], ["Kathy"]]
 
